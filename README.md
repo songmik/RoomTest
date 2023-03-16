@@ -2,7 +2,7 @@
 
 
 
-##### https://developer.android.com/codelabs/android-room-with-a-view-kotlin?hl=ko#0 의 코드를 보고 만듦
+##### https://developer.android.com/codelabs/android-room-with-a-view-kotlin?hl=ko#0 의 코드 참고
 
 
 <br/><br/>
